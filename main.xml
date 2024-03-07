@@ -20,4 +20,5 @@ Accept: application/json, text/plain, */*
 Content-Length: 200
 </requestHeader>
   <method class="java.lang.String">POST</method>
+  <addedLine>Some text here</addedLine>
 </httpSample>
